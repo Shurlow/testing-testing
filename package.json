@@ -4,7 +4,7 @@
   "description": "Testing demo with jest + circleci",
   "main": "index.js",
   "scripts": {
-    "test": "jest --coverage"
+    "test": "jest"
   },
   "repository": {
     "type": "git",

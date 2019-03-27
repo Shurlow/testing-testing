@@ -14,7 +14,6 @@ class TodoList {
   pop() {
     return this.list.pop()
   }
-
 }
 
 module.exports = TodoList
