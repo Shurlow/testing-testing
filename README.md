@@ -1,2 +1,8 @@
-# testing-testing
-Testing demo with jest + circleci 
+# Testing Testing
+
+```
+npm install
+npm test
+```
+
+Using jest & circleci

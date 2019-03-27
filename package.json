@@ -1,0 +1,24 @@
+{
+  "name": "testing-testing",
+  "version": "1.0.0",
+  "description": "Testing demo with jest + circleci",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shurlow/testing-testing.git"
+  },
+  "keywords": [],
+  "author": "Scott Hurlow <scott.hurlow@galvanize.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shurlow/testing-testing/issues"
+  },
+  "homepage": "https://github.com/Shurlow/testing-testing#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
