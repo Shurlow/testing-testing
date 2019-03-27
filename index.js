@@ -1,6 +1,6 @@
 class TodoList {
-  constructor() {
-    this.list = []
+  constructor(array) {
+    this.list = array || []
   }
 
   get() {
