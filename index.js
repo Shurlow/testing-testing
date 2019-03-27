@@ -8,7 +8,7 @@ class TodoList {
   }
 
   add(item) {
-    this.list.push(item)
+    if(typeof item === 'string') this.list.push(item)
   }
 
   pop() {
